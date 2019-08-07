@@ -1,0 +1,139 @@
+"Total population by geographic location (based on 2000, 2010 and 2015 Censuses)"
+
+"Geographic Location";"2015"
+"PHILIPPINES";100981437
+"..National Capital Region (NCR)";12877253
+"....City of Manila";1780148
+"....City of Mandaluyong";386276
+"....City of Marikina";450741
+"....City of Pasig";755300
+"....Quezon City";2936116
+"....City of San Juan";122180
+"....Caloocan City";1583978
+"....City of Malabon";365525
+"....City of Navotas";249463
+"....City of Valenzuela";620422
+"....City of Las Piñas";588894
+"....City of Makati";582602
+"....City of Muntinlupa";504509
+"....City of Parañaque";665822
+"....Pasay City";416522
+"....Pateros";63840
+"....Taguig City";804915
+"..Cordillera Administrative Region (CAR)";1722006
+"....Abra";241160
+"....Benguet (excluding Baguio City)";446224
+"....Baguio City";345366
+"....Ifugao";202802
+"....Kalinga";212680
+"....Mountain Province";154590
+"....Apayao";119184
+"..Region I (Ilocos Region)";5026128
+"....Ilocos Norte";593081
+"....Ilocos Sur";689668
+"....La Union";786653
+"....Pangasinan";2956726
+"..Region II (Cagayan Valley)";3451410
+"....Batanes";17246
+"....Cagayan";1199320
+"....Isabela";1593566
+"....Nueva Vizcaya";452287
+"....Quirino";188991
+"..Region III (Central Luzon)";11218177
+"....Bataan";760650
+"....Bulacan";3292071
+"....Nueva Ecija";2151461
+"....Pampanga (excluding Angeles City)";2198110
+"....Angeles City";411634
+"....Tarlac";1366027
+"....Zambales (excluding Olongapo City)";590848
+"....Olongapo City";233040
+"....Aurora";214336
+"..Region IV-A (Calabarzon)";14414774
+"....Batangas";2694335
+"....Cavite";3678301
+"....Laguna";3035081
+"....Quezon (excluding Lucena City)";1856582
+"....Lucena City";266248
+"....Rizal";2884227
+"..Mimaropa Region";2963360
+"....Marinduque";234521
+"....Occidental Mindoro";487414
+"....Oriental Mindoro";844059
+"....Palawan (excluding Puerto Princesa City)";849469
+"....Puerto Princesa City";255116
+"....Romblon";292781
+"..Region V (Bicol Region)";5796989
+"....Albay";1314826
+"....Camarines Norte";583313
+"....Camarines Sur";1952544
+"....Catanduanes";260964
+"....Masbate";892393
+"....Sorsogon";792949
+"..Region VI (Western Visayas)";4477247
+"....Aklan";574823
+"....Antique";582012
+"....Capiz";761384
+"....Iloilo (excluding Iloilo City)";1936423
+"....Iloilo City";447992
+"....Guimaras";174613
+"..Region VII (Central Visayas)";6041903
+"....Bohol";1313560
+"....Cebu (excluding The Cities of Cebu, Lapu-Lapu, And Mandaue)";2938982
+"....Cebu City";922611
+"....Lapu-Lapu City (Opon)";408112
+"....Mandaue City";362654
+"....Siquijor";95984
+"....Negros Island Region (NIR)";4414131
+"....Negros Occidental (excluding Bacolod City)";2497261
+"....Bacolod City";561875
+"....Negros Oriental";1354995
+"....Region VIII (Eastern Visayas)";4440150
+"....Eastern Samar";467160
+"....Leyte (excluding Tacloban City)";1724679
+"....Tacloban City";242089
+"....Northern Samar";632379
+"....Samar (Western Samar)";780481
+"....Southern Leyte";421750
+"....Biliran";171612
+"..Region IX (Zamboanga Peninsula)";3629783
+"....Zamboanga Del Norte";1011393
+"....Zamboanga Del Sur (excluding Zamboanga City)";1010674
+"....Zamboanga City";861799
+"....Zamboanga Sibugay";633129
+"....City of Isabela";112788
+"..Region X (Northern Mindanao)";4689302
+"....Bukidnon";1415226
+"....Camiguin";88478
+"....Lanao Del Norte (excluding Iligan City)";676395
+"....Iligan City";342618
+"....Misamis Occidental";602126
+"....Misamis Oriental (excluding Cagayan De Oro City)";888509
+"....Cagayan De Oro City";675950
+"....Region XI (Davao Region)";4893318
+"....Davao Del Norte";1016332
+"....Davao Del Sur (excluding Davao City)";632588
+"....Davao City";1632991
+"....Davao Oriental";558958
+"....Compostela Valley";736107
+"....Davao Occidental";316342
+"..Region XII (SOCCSKSARGEN)";4545276
+"....Cotabato (North Cotabato)";1379747
+"....South Cotabato (excluding General Santos City)";915289
+"....General Santos City (Dadiangas)";594446
+"....Sultan Kudarat";812095
+"....Sarangani";544261
+"....Cotabato City";299438
+"..Autonomous Region In Muslim Mindanao (ARMM)";3781387
+"....Basilan (excluding City of Isabela)";346579
+"....Lanao Del Sur";1045429
+"....Maguindanao (excluding Cotabato City)";1173933
+"....Sulu";824731
+"....Tawi-Tawi";390715
+"..Region XIII (Caraga)";2596709
+"....Agusan Del Norte (excluding Butuan City)";354503
+"....Butuan City";337063
+"....Agusan Del Sur";700653
+"....Surigao Del Norte";485088
+"....Surigao Del Sur";592250
+"....Dinagat Islands";127152
